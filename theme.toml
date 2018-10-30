@@ -3,9 +3,9 @@
 
 name = "Hyalite"
 license = "MIT"
-licenselink = "https://github.com/beaorn/hyalite/blob/master/LICENSE"
+licenselink = "https://github.com/agrinux/hyalite/blob/master/LICENSE"
 description = "City or regional tech community hugo theme"
-homepage = "https://github.com/beaorn/hyalite"
+homepage = "https://github.com/agrinux/hyalite"
 tags = []
 features = []
 min_version = "0.41"
